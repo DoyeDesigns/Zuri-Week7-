@@ -6,6 +6,6 @@
 
 
 ## 🔗 Link to week7 hosted website
-https://katherineoelsner.com/
+https://doyedesigns.github.io/Zuri-Week7-/
 
 
